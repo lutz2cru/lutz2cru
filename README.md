@@ -25,6 +25,9 @@ transformation numérique.
 
 | Projet | Description | Stack |
 |---|---|---|
+| [sp-bot](https://github.com/lutz2cru/sp-bot) | Suivi en continu des stocks de carburant de 13 stations, avec alertes push de rupture et de réapprovisionnement | Python, GitHub Actions, Docker |
+| [site-logistique-BD70](https://github.com/lutz2cru/site-logistique-BD70) | Gestion d'un entrepôt : quais, stocks, expéditions et indicateurs de pilotage, sur 120 000 lignes de données simulées | PHP, MariaDB, SQL |
+| [thewall](https://github.com/lutz2cru/thewall) | Pages de révision de la promo réunies sur un site statique, administré sans serveur par des commits | JavaScript, GitHub Pages |
 | [Projet-LO21-A25](https://github.com/lutz2cru/Projet-LO21-A25) | Système expert : base de règles et moteur d'inférence à chaînage avant | C |
 | [Projet-LP25](https://github.com/JulesGIT2/Projet-LP25) | Moniteur de processus inspiré de htop, en local et sur hôtes distants (projet d'équipe) | C, ncurses |
 
@@ -37,8 +40,8 @@ transformation numérique.
 ## Outils
 
 ```
-maîtrisés     Linux · Bash · Git · SQL · HTML/CSS/JS · C · MQTT · Node-RED · ESP32
-en cours      Python · API REST · LLM · RAG · bases vectorielles
+maîtrisés     Linux · Bash · Git · SQL · MariaDB · PHP · HTML/CSS/JS · C · MQTT · Node-RED · ESP32
+en cours      Python · GitHub Actions · Docker · API REST · LLM · RAG · bases vectorielles
 ```
 
 ## Contact
