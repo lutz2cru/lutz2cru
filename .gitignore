@@ -1,0 +1,5 @@
+CLAUDE.md
+brouillons/
+.claude/
+__pycache__/
+*.ttf
