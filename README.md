@@ -16,6 +16,11 @@ transformation numérique.
 - Contribution à une plateforme régionale de données publiques
 - Apprentissage approfondi de Python, des API REST et des architectures LLM/RAG
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <img src="assets/pipeline-light.svg" width="100%" alt="Schéma d'une chaîne RAG : documents, index BM25 et vecteurs, recherche hybride, LLM, réponse.">
+</picture>
+
 ## Projets
 
 | Projet | Description | Stack |
